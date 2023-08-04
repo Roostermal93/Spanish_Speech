@@ -1,0 +1,56 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "38a265a8-6cc4-4e2e-85e1-f1a32a23b0e3",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/38a265a8-6cc4-4e2e-85e1-f1a32a23b0e3/38a265a8-6cc4-4e2e-85e1-f1a32a23b0e3_es_Male.mp4"
+        },
+        {
+            "id": "6258ece3-5123-41e4-927d-e89710eddf6c",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/6258ece3-5123-41e4-927d-e89710eddf6c/6258ece3-5123-41e4-927d-e89710eddf6c_es_Female.mp4"
+        },
+        {
+            "id": "bf899e59-8f53-4376-bcab-eb1f97ca0fb3",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/bf899e59-8f53-4376-bcab-eb1f97ca0fb3/bf899e59-8f53-4376-bcab-eb1f97ca0fb3_es_Male.mp4"
+        },
+        {
+            "id": "2868f290-8c49-4072-b359-a8726f944265",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/2868f290-8c49-4072-b359-a8726f944265/2868f290-8c49-4072-b359-a8726f944265_es_Female.mp4"
+        },
+        {
+            "id": "10952074-9394-4e35-9d40-d6a56703dbc2",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/10952074-9394-4e35-9d40-d6a56703dbc2/10952074-9394-4e35-9d40-d6a56703dbc2_es_Male.mp4"
+        },
+        {
+            "id": "1e4bd00e-186e-4826-b361-a714a01311b6",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/1e4bd00e-186e-4826-b361-a714a01311b6/1e4bd00e-186e-4826-b361-a714a01311b6_es_Male.mp4"
+        },
+        {
+            "id": "a4453557-4f16-4790-80bc-0d26d8e78de1",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Spanish/Spanish_Speech/a4453557-4f16-4790-80bc-0d26d8e78de1/a4453557-4f16-4790-80bc-0d26d8e78de1_es_Male.mp4"
+        }
+    ]
+}
