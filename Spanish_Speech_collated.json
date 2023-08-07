@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
@@ -18,11 +18,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Spanish/6258ece3-5123-41e4-927d-e89710eddf6c_sp_Female.mp4"
         },
         {
+            "id": "29b61672-4744-4d0e-a61b-79da90d26749",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Spanish/29b61672-4744-4d0e-a61b-79da90d26749_sp_Female.mp4"
+        },
+        {
             "id": "bf899e59-8f53-4376-bcab-eb1f97ca0fb3",
             "collectionId": "Spanish",
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Spanish/bf899e59-8f53-4376-bcab-eb1f97ca0fb3_sp_Male.mp4"
+        },
+        {
+            "id": "3e4c47f5-c9d3-4650-b477-83ac7e8721e0",
+            "collectionId": "Spanish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Spanish/3e4c47f5-c9d3-4650-b477-83ac7e8721e0_sp_Male.mp4"
         },
         {
             "id": "2868f290-8c49-4072-b359-a8726f944265",
